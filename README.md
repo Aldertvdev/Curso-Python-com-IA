@@ -34,10 +34,17 @@ Você vai aprender desde a instalação até fluxos avançados, incluindo:
 
 - **Curso oficial:** [Acessar no Santander Open Academy](https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-development-with-ai)
 
-## 🚀 Como usar este repositório
+## 🚀 Módulos 
 
-Este repositório contém os códigos, exercícios e projetos desenvolvidos durante
+- [ ] [Modulo 1]
+- introdução, preenchimento inteligente com tab,
+criação de projeto Python, comparação VS code vs PyCharm vs jupyter. ENTRE OUTROS
 
+-  Controle de progresso
+
+- [ ] [Módulo 2]
+- Aplicação Web com Flask, Análise de Dados, Aplicativo de desktop com interface gráfica. ENTRE OUTROS
+   
 ### 📚 Outros estudos meus de Python | Banco de Dados
 
  - [ ] [Python Santander](https://github.com/Aldertvdev/Python-curso-Santander-open/blob/main/README.md)- Cursor com Python - Santander Open Academy ♨️
