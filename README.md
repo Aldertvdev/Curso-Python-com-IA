@@ -42,4 +42,4 @@ Este repositório contém os códigos, exercícios e projetos desenvolvidos dura
 
  - [ ] [Python Santander](https://github.com/Aldertvdev/Python-curso-Santander-open/blob/main/README.md)- Cursor com Python - Santander Open Academy ♨️
  > 
-- [ ] [Curso Python development IA](https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-development-with-ai)- Desenvolvimento Inteligente com IA
+- [ ] [Curso Python development IA](https://github.com/Aldertvdev/Curso-Python-com-IA/blob/main/README.md)- Desenvolvimento Inteligente com IA
