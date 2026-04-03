@@ -37,3 +37,7 @@ Você vai aprender desde a instalação até fluxos avançados, incluindo:
 ## 🚀 Como usar este repositório
 
 Este repositório contém os códigos, exercícios e projetos desenvolvidos durante
+
+## 📚 Outros estudos meus de Python | Banco de Dados
+
+ - [ ] [Python Santander](https://github.com/Aldertvdev/Python-curso-Santander-open/blob/main/README.md)- Cursor com Python - Santander Open Academy ♨️
