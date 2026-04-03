@@ -42,7 +42,7 @@ criação de projeto Python, comparação VS code vs PyCharm vs jupyter. ENTRE O
 
 -  Controle de progresso
 
-- [ ] [Módulo 2]
+- [ ] [Módulo 2](https://github.com/Aldertvdev/Modulo-2-Phyton-IA/blob/main/README.md)
 - Aplicação Web com Flask, Análise de Dados, Aplicativo de desktop com interface gráfica. ENTRE OUTROS
    
 ### 📚 Outros estudos meus de Python | Banco de Dados
