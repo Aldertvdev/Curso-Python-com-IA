@@ -36,7 +36,7 @@ Você vai aprender desde a instalação até fluxos avançados, incluindo:
 
 ## 🚀 Módulos 
 
-- [ ] [Modulo 1]
+- [ ] [Modulo 1](https://github.com/Aldertvdev/Modulo-1-Phyton-IA/blob/main/README.md)
 - introdução, preenchimento inteligente com tab,
 criação de projeto Python, comparação VS code vs PyCharm vs jupyter. ENTRE OUTROS
 
